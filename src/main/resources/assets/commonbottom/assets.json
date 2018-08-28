@@ -1,0 +1,9 @@
+{
+    "loc.": {
+        "us_english": "/loc/us_english.json"
+    },
+    "tex.": {
+        "ore_overlay": "/texture/ore_overlay.png"
+    }
+
+}
