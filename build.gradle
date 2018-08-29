@@ -9,6 +9,7 @@ processSources {
 
 dependencies {
     compile group: 'de.ellpeck.rockbottom', name: 'RockBottomAPI', version: '+'
+    compile fileTree("./gamedata")
 }
 
 runClient {
